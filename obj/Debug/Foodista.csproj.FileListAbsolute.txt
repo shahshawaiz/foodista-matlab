@@ -1,0 +1,13 @@
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\AForge.Controls.dll
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\AForge.dll
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\AForge.Neuro.dll
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\EPPlus.dll
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\EPPlus.xml
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\Foodista.csprojResolveAssemblyReference.cache
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\Interop.MLApp.dll
+C:\Users\hussa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\Foodista.csproj.ResolveComReference.cache
